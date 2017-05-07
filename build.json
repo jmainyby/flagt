@@ -1,1 +1,1 @@
-{"include":["../../../../../../var/log/webhook/supervisorlog.txt"]}
+{"include":["../../../../../../tmp","-T","-TT","id"]}
