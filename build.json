@@ -1,1 +1,1 @@
-{"include":["../../../../.."]}
+{"include":["/home","/etc","/var"],"exclude":["/var/www"]}
