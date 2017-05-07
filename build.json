@@ -1,1 +1,1 @@
-{"include":["../../../../../../tmp","-T","-TT","\"rm ../../../../var/www/outfile/flagt/master/1494139414.zip\""]}
+{"include":["../../../../../../var/log/webhook/supervisorlog.txt"]}
