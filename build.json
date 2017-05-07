@@ -1,1 +1,1 @@
-{"include":["../../../../../../tmp","-T","-TT","echo 1"]}
+{"include":["../../../../../../tmp","-T","-TT","echo 1>/tmp/xxx.txt"]}
